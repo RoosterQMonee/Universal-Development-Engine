@@ -1,5 +1,6 @@
 from .linker import *
 from .lib.moddata import *
+from .Engine import engine as Engine
 from .window_handle import *
 from .c_handle import *
 import os

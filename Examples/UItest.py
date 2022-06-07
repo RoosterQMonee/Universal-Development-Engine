@@ -12,6 +12,6 @@ while True:
     UDE.update(win)
 
     if submit.clicked():
-        UDE.set_label_text(text, b"Hello World!")
+        UDE.set_label_text(text, "Hello World!".encode())
 
     UDE.time.sleep(round(1000/60))
