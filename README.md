@@ -3,7 +3,7 @@
 
 ## Platorms
 
-* Windows 8/8.1/10/11
+* Windows 8/8.1/10 - temporarily broken on 11
 
 ## General Features
 
