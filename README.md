@@ -3,7 +3,7 @@
 
 ## Platorms
 
-* Windows 8/8.1/10 ( Not tested on win11 )
+* Windows 8/8.1/10/11
 
 ## General Features
 
