@@ -1,6 +1,6 @@
 # Universal Development Engine
 
-**Note** : i probably wont work on this much. wouldn't recommend using it for anything more than a project.
+**Note** : i probably wont work on this much. wouldn't recommend using it for anything more than a personal project.
 
 ## Platorms
 
